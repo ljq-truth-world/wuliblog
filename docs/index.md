@@ -39,10 +39,10 @@ postList: none
 #安装git nodejs yarn
 
 # clone the project
-git clone https://github.com/xugaoyi/vuepress-theme-vdoing-doc.git
+git clone https://github.com/windysoul-code/wuliblog.git
 
 # enter the project directory
-cd vuepress-theme-vdoing-doc
+cd wuliblog
 
 # install dependency 注意：如安装不成功请关闭淘宝源。
 yarn install
